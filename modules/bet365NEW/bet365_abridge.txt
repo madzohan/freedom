@@ -1,0 +1,18 @@
+OD =odds
+ss =score-score
+TU = time UK
+TS？？？ total score??
+OR =order
+CP = 第几节
+OV =over 全部赛事信息
+na =name
+OV_13_10_0 ?????
+HA = handicap advantage上盘
+HD = handicap disadvantage下盘
+
+
+ID = 6V68923125C18A_10_0
+IT = OV68923125C18A_10_0
+6V68923125C18A_10_0U|SS=30-23;OV68923125C18A_10_0U|SS=30-23;
+6V68923125C18A_10_0U|TT=1;TU=20171122094627;OV68923125C18A_10_0U|TT=1;TU=20171122094627;
+6V68923125C18A_10_0U|TT=0;TM=3;TS=54;OV68923125C18A_10_0U|TT=0;TM=3;TS=54;|
